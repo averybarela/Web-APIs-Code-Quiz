@@ -11,7 +11,7 @@ body{
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background-color: greenyellow;
+    background-color: white;
 }
 
 .container{
@@ -34,7 +34,7 @@ body{
     border-radius: 5px;
     padding: 5px 10px;
     outline: none;
-    color: white;
+    
 }
 .start-btn, .next-btn {
     font-size: 1.5rem;
@@ -51,4 +51,8 @@ body{
 
 .hide {
     display: none ;
+}
+
+.timer{
+    text-align: right;
 }
